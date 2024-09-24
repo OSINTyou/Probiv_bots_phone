@@ -12,6 +12,7 @@ description: Бесплатные Боты Telegram и сервисы для п�
 - [🚗 Пробив по номеру авто](#car-check)
 - [📃Пробив по Документам](#dok-check)
 - [👨‍🦳Пробив По Одноклассникам](#ok-check)
+- [👁‍🗨Остальное](#ds-check)
 
 ## 📱 Пробив по номеру телефона <a name="phone-check"></a>
 
@@ -129,6 +130,9 @@ description: Бесплатные Боты Telegram и сервисы для п�
 5. **[Aximo](https://t.me/aximobot?start=ref7061387826)** — Мгновенно сохранит новые публикации аккаунта ВК.
 
 
+## 👁‍🗨Остальное <a name="ds-check"></a>
+
+1. **[🔥 Discord Sensor](https://t.me/discordsensorbot?start=kentId7061387826)** - Мощнейший инструмент для анализа данных Discord
 
 ## Часто задаваемые вопросы (FAQ)
 
